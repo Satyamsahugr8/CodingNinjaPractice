@@ -2,7 +2,7 @@ package com.java.advanced;
 
 public class StackUse {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 		
 		StackUsingArray stack = new StackUsingArray();
 		stack.push(10);
