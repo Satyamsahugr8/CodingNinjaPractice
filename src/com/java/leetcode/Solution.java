@@ -11,7 +11,7 @@ class Solution {
 
 		System.out.println();
 		
-		rotate(arr, 0, 5);
+		rotate(arr, 0, 6666);
 		
 		for (int i : arr) {
 			System.out.print(i+",");

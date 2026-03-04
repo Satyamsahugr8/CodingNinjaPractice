@@ -7,7 +7,7 @@ import java.util.Set;
 
 import javax.swing.text.html.parser.Entity;
 
-public class ArrayQuestion {
+public class CountItemOfArray {
 
 	public static void main(String[] args) {
 
@@ -36,7 +36,7 @@ public class ArrayQuestion {
 	
 		for (Map.Entry<Integer, Integer> e : map.entrySet()) {
 				
-			
+			System.out.println(e);
 				
 		}
 	}

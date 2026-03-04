@@ -1,4 +1,4 @@
-package com.java.advanced;
+package com.java.stack;
 
 public class StackFullException extends Exception {
 

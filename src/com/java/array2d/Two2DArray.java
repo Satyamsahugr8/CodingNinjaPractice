@@ -4,7 +4,7 @@
 package com.java.array2d;
 
 /**
- * @author satya
+ * @author satyam
  *
  */
 public class Two2DArray {

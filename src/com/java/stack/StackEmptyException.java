@@ -1,5 +1,5 @@
 
-package com.java.advanced;
+package com.java.stack;
 
 public class StackEmptyException extends Exception {
 
