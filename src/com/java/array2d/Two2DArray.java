@@ -18,10 +18,10 @@ public class Two2DArray {
 		for (int i = 0; i < arr.length; i++) {
 			for (int j = 0; j < arr.length; j++) {
 				 if( i < j ) {
-					 arr[i][j] = 0;
+					arr[i][j] = 0;
 				 } 
 				 else 
-					 arr[i][j] = arr[i][j];
+					arr[i][j] = arr[i][j];
 			}
 		 }
 
